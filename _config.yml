@@ -20,7 +20,7 @@ url: "https://yourusername.github.io/LifeChronicles"
 # theme: jekyll-theme-slate
 
 # 4. Architect
-# theme: jekyll-theme-architect
+theme: jekyll-theme-architect
 
 # 5. Hacker
 # theme: jekyll-theme-hacker
@@ -29,7 +29,7 @@ url: "https://yourusername.github.io/LifeChronicles"
 # theme: jekyll-theme-modernist
 
 # 7. Tactile
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
 
 # Автор сайта
 author: "Your Name"
