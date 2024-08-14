@@ -1,0 +1,38 @@
+# _config.yml
+
+# Название сайта
+title: "Life Chronicles"
+
+# Базовый URL (обычно имя репозитория)
+baseurl: "/"
+
+# URL сайта
+url: "https://yourusername.github.io/LifeChronicles"
+
+# Выберите тему GitHub Pages
+theme: jekyll-theme-cayman
+
+# Автор сайта
+author: "Your Name"
+
+# Описание сайта
+description: "Chronicles of life events and moments"
+
+# Ссылки на социальные сети (пример)
+social_links:
+  twitter: your_twitter_handle
+  github: yourusername
+  linkedin: your-linkedin-profile
+
+# Markdown и синтаксическая подсветка
+markdown: kramdown
+highlighter: rouge
+
+# Параметры для создания меню (необязательно)
+# navigation:
+#   - title: "Home"
+#     url: "/"
+#   - title: "About"
+#     url: "/about"
+#   - title: "Contact"
+#     url: "/contact"
