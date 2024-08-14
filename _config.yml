@@ -23,10 +23,10 @@ url: "https://yourusername.github.io/LifeChronicles"
 # theme: jekyll-theme-architect
 
 # 5. Hacker
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 
 # 6. Modernist
-# theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
 
 # 7. Tactile
 # theme: jekyll-theme-tactile
