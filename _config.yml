@@ -20,19 +20,19 @@ url: "https://yourusername.github.io/LifeChronicles"
 # theme: jekyll-theme-slate
 
 # 4. Architect
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 
 # 5. Hacker
 # theme: jekyll-theme-hacker
 
 # 6. Modernist
-# theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
 
 # 7. Tactile
 # theme: jekyll-theme-tactile
 
 # Автор сайта
-author: "Your Name"
+author: "Yury R"
 
 # Описание сайта
 description: "Chronicles of life events and moments"
