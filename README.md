@@ -86,7 +86,7 @@
 Вот несколько проектов, над которыми я работал:
 
 - [Проект 1](https://netology.ru/sharing/9c164d1209726add2c1e7a9431414ba2?utm_source=social&utm_campaign=certificate_lms ) — Веб-приложение для планирования задач на день.
-- [Проект 2](https://github.com/user/project2) — Лэндинг для малого бизнеса.
+- [Проект 2](https://netology.ru/sharing/2b12b578465cbff64cd189f2626667b6?utm_source=social&utm_campaign=certificate_lms ) — Лэндинг для малого бизнеса.
 
 ## Хобби и интересы
 
